@@ -1,0 +1,23 @@
+PODS:
+  - FDFoundationObjC (1.0.1):
+    - MJExtension
+  - MJExtension (3.2.1)
+
+DEPENDENCIES:
+  - FDFoundationObjC (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - MJExtension
+
+EXTERNAL SOURCES:
+  FDFoundationObjC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FDFoundationObjC: c9c792d9c36155fc638cc07251f7719b03a39b82
+  MJExtension: 635f2c663dcb1bf76fa4b715b2570a5710aec545
+
+PODFILE CHECKSUM: 4541a99d27469c2bb7dc11b42dc0ba43c8fa5be0
+
+COCOAPODS: 1.9.1
