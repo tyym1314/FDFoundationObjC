@@ -11,7 +11,14 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface NSDate (FD)
 
+
+/// 当前时间戳
 - (NSString *)fd_currentTimestamp;
+
+
+/// 时间戳转时间
+/// @param timestamp 时间戳
++ (NSString *)fd_getTimeFromTimestamp:(double)timestamp;
 
 @end
 
