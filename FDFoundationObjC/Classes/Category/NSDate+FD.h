@@ -20,6 +20,8 @@ NS_ASSUME_NONNULL_BEGIN
 /// @param timestamp 时间戳
 + (NSString *)fd_getTimeFromTimestamp:(double)timestamp;
 
++ (NSString *)fd_getTimeSimpleFromTimestamp:(double)timestamp;
+
 @end
 
 NS_ASSUME_NONNULL_END

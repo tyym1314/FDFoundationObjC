@@ -22,4 +22,12 @@
     return timeStr;
 }
 
++ (NSString *)fd_getTimeSimpleFromTimestamp:(double)timestamp{
+    NSDate * myDate=[NSDate dateWithTimeIntervalSince1970:timestamp];
+    NSDateFormatter * formatter=[[NSDateFormatter alloc]init];
+    [formatter setDateFormat:@"MM-dd"];
+    NSString *timeStr=[formatter stringFromDate:myDate];
+    return timeStr;
+}
+
 @end
