@@ -22,6 +22,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (NSString *)fd_getTimeSimpleFromTimestamp:(double)timestamp;
 
++ (NSString *)fd_getHHmmTimeFromTimestamp:(double)timestamp;
+
+
 @end
 
 NS_ASSUME_NONNULL_END
