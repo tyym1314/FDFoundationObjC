@@ -66,7 +66,7 @@
 		9CA5DD42DD2FA99064B9C0B7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		DBDABAB06E215F7DCD1E2B94 /* Pods-FDFoundationObjC_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FDFoundationObjC_Example.debug.xcconfig"; path = "Target Support Files/Pods-FDFoundationObjC_Example/Pods-FDFoundationObjC_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		DF78D8788610EDDE45463044 /* Pods-FDFoundationObjC_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FDFoundationObjC_Tests.release.xcconfig"; path = "Target Support Files/Pods-FDFoundationObjC_Tests/Pods-FDFoundationObjC_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		EB4DBD7B4A5A7E61740E55F8 /* FDFoundationObjC.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = FDFoundationObjC.podspec; path = ../FDFoundationObjC.podspec; sourceTree = "<group>"; };
+		EB4DBD7B4A5A7E61740E55F8 /* FDFoundationObjC.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = FDFoundationObjC.podspec; path = ../FDFoundationObjC.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

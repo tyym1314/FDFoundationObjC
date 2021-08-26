@@ -8,6 +8,8 @@
 #ifndef FDFoundationObjC_h
 #define FDFoundationObjC_h
 
+#import <MJExtension/MJExtension.h>
+
 #import "FDModel.h"
 #import "FDUMengPushModel.h"
 
