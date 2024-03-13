@@ -20,9 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'FDFoundationObjC'
 ```
 
-## Author
-
-fandongtongxue, admin@fandong.me
 
 ## License
 
